@@ -1,6 +1,6 @@
-### Hi there, I'm [Your Name]! 👋
+### Hi there, I'm Austin Slater! 👋
 
-I'm a Full-Stack Web Developer based in [Your Location]. I enjoy building web applications and exploring new technologies. Here's a bit about me:
+I'm a Full-Stack Web Developer based in Minnesota, United States. I enjoy building web applications and exploring new technologies. Here's a bit about me:
 
 - 🔭 I’m currently working as an Instructional Specialist for edX, helping students learn web development.
 - 🌱 I’m constantly learning and improving my skills in web and software development.
