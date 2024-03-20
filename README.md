@@ -25,7 +25,8 @@ Feel free to connect with me on LinkedIn or send me an email. I'm always open to
 
 Thanks for visiting my GitHub profile! 😄
 
-![Profile Views](https://komarev.com/ghpvc/?username=austinslatey)
+![Profile Views](https://komarev.com/ghpvc/?username=austinslatey) ![Total_Commits](https://github-readme-stats.vercel.app/api?username=austinslatey&show_icons=true&count_private=true&include_all_commits=true)
+
 
 
 
