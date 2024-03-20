@@ -24,3 +24,7 @@ I have experience with a wide range of technologies, including:
 Feel free to connect with me on LinkedIn or send me an email. I'm always open to interesting projects and collaborations.
 
 Thanks for visiting my GitHub profile! 😄
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=austinslatey.austinslatey)
+
+
