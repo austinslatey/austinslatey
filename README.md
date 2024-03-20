@@ -25,6 +25,7 @@ Feel free to connect with me on LinkedIn or send me an email. I'm always open to
 
 Thanks for visiting my GitHub profile! 😄
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=austinslatey.austinslatey)
+![Profile Views](https://komarev.com/ghpvc/?username=austinslatey)
+
 
 
