@@ -25,12 +25,14 @@ Feel free to connect with me on LinkedIn or send me an email. I'm always open to
 
 Thanks for visiting my GitHub profile! 😄
 
-![Profile Views](https://komarev.com/ghpvc/?username=austinslatey) 
+
 
 <!-- ![austinslatey's Stats](https://github-readme-stats.vercel.app/api?username=austinslatey&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) -->
 
 ![austinslatey's Streak](https://github-readme-streak-stats.herokuapp.com/?user=austinslatey&theme=vue-dark&hide_border=true)
 ![austinslatey's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=austinslatey&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+![Profile Views](https://komarev.com/ghpvc/?username=austinslatey) 
 
 
 
