@@ -21,7 +21,7 @@ I have experience with a wide range of technologies, including:
 
 - LinkedIn: [Austin-Slater](https://www.linkedin.com/in/austin-slater-1141b8225/)
 
-Feel free to connect with me on LinkedIn or send me an email. I'm always open to interesting projects and collaborations.
+Feel free to connect with me on LinkedIn and send me a private message. I'm always open to interesting projects and collaborations.
 
 Thanks for visiting my GitHub profile! 😄
 
