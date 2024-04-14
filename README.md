@@ -10,11 +10,10 @@ I'm a Full-Stack Web Developer based in Minnesota, United States. I enjoy buildi
 
 ### Get in Touch
 
-- LinkedIn: [Austin-Slater](https://www.linkedin.com/in/austin-slater-1141b8225/)
+<a href="https://www.linkedin.com/in/austin-slater-1141b8225/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 Feel free to connect with me on LinkedIn and send me a private message. I'm always open to interesting projects and collaborations.
 
-Thanks for visiting my GitHub profile! 😄
 
 
 
@@ -29,6 +28,7 @@ Thanks for visiting my GitHub profile! 😄
 <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+<img src="./assets/img/c.png" alt="C" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/tailwindcss-icon.svg" alt="Tailwindcss" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
@@ -37,11 +37,25 @@ Thanks for visiting my GitHub profile! 😄
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mongodb-original-wordmark.svg" alt="Mongodb" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/postgresql-original-wordmark.svg" alt="Postgresql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Mobile/header_logo.svg" alt="React Native" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/figma-icon.svg" alt="Figma" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
+<img src="./assets/img/npm.png" alt="Linux" width="60" height="40"/>
+<img src="./assets/img/csharp.png" alt="Csharp" width="40" height="40"/>
+<img src="./assets/img/jquery.png" alt="Jquery" width="40" height="40"/>
+<img src="./assets/img/blender.png" alt="Blender" width="40" height="40"/>
+<img src="./assets/img/express.png" alt="Express" width="40" height="40"/>
+<img src="./assets/img/graphql.png" alt="GraphQL" width="40" height="40"/>
+<img src="./assets/img/jwt.png" alt="JsonWebToken" width="40" height="40"/>
+<img src="./assets/img/oop.png" alt="OOP" width="40" height="40"/>
+<img src="./assets/img/orm.png" alt="ORM" width="40" height="40"/>
+<img src="./assets/img/vite.png" alt="Vite" width="40" height="40"/>
+<img src="./assets/img/apollo.png" alt="Appolo" width="40" height="40"/>
+
+
+
 </p>
 
 
 
+Thanks for visiting my GitHub profile! 😄
