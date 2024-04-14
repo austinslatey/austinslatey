@@ -29,6 +29,8 @@ Feel free to connect with me on LinkedIn and send me a private message. I'm alwa
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/react-original-wordmark.svg" alt="React" width="40" height="40"/>
 <img src="./assets/img/c.png" alt="C" width="40" height="40"/>
+<img src="./assets/img/csharp.png" alt="Csharp" width="40" height="40"/>
+<img src="./assets/img/jquery.png" alt="Jquery" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/tailwindcss-icon.svg" alt="Tailwindcss" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
@@ -41,8 +43,7 @@ Feel free to connect with me on LinkedIn and send me a private message. I'm alwa
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
 <img src="./assets/img/npm.png" alt="Linux" width="60" height="40"/>
-<img src="./assets/img/csharp.png" alt="Csharp" width="40" height="40"/>
-<img src="./assets/img/jquery.png" alt="Jquery" width="40" height="40"/>
+
 <img src="./assets/img/blender.png" alt="Blender" width="40" height="40"/>
 <img src="./assets/img/express.png" alt="Express" width="40" height="40"/>
 <img src="./assets/img/graphql.png" alt="GraphQL" width="40" height="40"/>
