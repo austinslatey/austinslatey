@@ -19,7 +19,7 @@ Feel free to connect with me on LinkedIn and send me a private message. I'm alwa
 
 <!-- ![austinslatey's Stats](https://github-readme-stats.vercel.app/api?username=austinslatey&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) -->
 ![austinslatey's Streak](https://github-readme-streak-stats.herokuapp.com/?user=austinslatey&theme=vue-dark&hide_border=true)
-
+![austinslatey's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=austinslatey&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=austinslatey) 
 
