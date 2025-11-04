@@ -2,9 +2,9 @@
 
 I'm a Full-Stack Web Developer based in Minnesota, United States. I enjoy building web applications and exploring new technologies. Here's a bit about me:
 
-- 🔭 I’m currently working as an Instructional Specialist for edX, helping students learn web development.
+- 🔭 I’m currently working as a Developer & NetSuite Administrator for Waldoch Crafts.
 - 🌱 I’m constantly learning and improving my skills in web and software development.
-- 🎓 I graduated from the University of Minnesota's Full-Stack Web Development Bootcamp.
+- 🎓 I have many certificates in programming.
 - ⚡ Fun fact: In my free time, you can find me fishing in the 'Land of 10,000 Lakes.'
 
 
@@ -52,9 +52,6 @@ Feel free to connect with me on LinkedIn and send me a private message. I'm alwa
 <img src="./assets/img/orm.png" alt="ORM" width="40" height="40"/>
 <img src="./assets/img/vite.png" alt="Vite" width="40" height="40"/>
 <img src="./assets/img/apollo.png" alt="Appolo" width="40" height="40"/>
-
-
-
 </p>
 
 
